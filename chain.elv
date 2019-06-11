@@ -28,7 +28,7 @@ default-glyph = [
 ]
 
 default-segment-style = [
-  &git-branch=    [ blue    ]
+  &git-branch=    [ cyan    ]
   &git-dirty=     [ yellow  ]
   &git-ahead=     [ red     ]
   &git-behind=    [ red     ]
@@ -39,8 +39,8 @@ default-segment-style = [
   &git-timestamp= [ cyan    ]
   &su=            [ yellow  ]
   &chain=         [ default ]
-  &arrow=         [ green   ]
-  &dir=           [ cyan    ]
+  &arrow=         [ default   ]
+  &dir=           [ yellow    ]
   &session=       [ session ]
   &timestamp=     [ gray    ]
 ]
