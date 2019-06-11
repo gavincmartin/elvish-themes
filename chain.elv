@@ -48,7 +48,7 @@ default-segment-style = [
 glyph = [&]
 segment-style = [&]
 
-prompt-pwd-dir-length = 1
+prompt-pwd-dir-length = 0
 
 timestamp-format = "%R"
 
