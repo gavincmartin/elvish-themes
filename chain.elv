@@ -15,10 +15,10 @@ rprompt-segments = $rprompt-segments-defaults
 
 default-glyph = [
   &git-branch=    "⎇"
-  &git-dirty=     "●"
-  &git-ahead=     "⬆"
-  &git-behind=    "⬇"
-  &git-staged=    "✔"
+  &git-dirty=     "● "
+  &git-ahead=     "⬆ "
+  &git-behind=    "⬇ "
+  &git-staged=    "✔ "
   &git-untracked= "+"
   &git-deleted=   "-"
   &su=            "⚡"
